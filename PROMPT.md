@@ -50,4 +50,3 @@ O prompt combina três grupos de instruções:
 - **Realismo fotográfico:** especifica lente, luz, textura e composição;
 - **Restrições:** reduz exageros futuristas, elementos de marca e artefatos
   típicos de imagens artificiais.
-
