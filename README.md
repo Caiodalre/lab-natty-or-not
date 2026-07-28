@@ -1,51 +1,62 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# São Paulo 2045: Natty ou IA? 🌿🏙️
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+> **Aviso de transparência:** a imagem apresentada neste projeto é fictícia e foi
+> gerada por inteligência artificial. Ela não registra um lugar ou acontecimento real.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Este projeto imagina como poderia ser um bairro sustentável de São Paulo em
+2045. A proposta foi criar uma cena tão plausível quanto uma fotografia
+documental: transporte elétrico, ciclovia protegida, edifícios com vegetação e
+pessoas vivendo uma manhã comum depois da chuva.
+
+O desafio não foi criar um futuro espetacular, mas um futuro próximo que
+parecesse possível — o bastante para provocar a pergunta: **é natural ou foi
+gerado por IA?**
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- **OpenAI Codex:** definição do conceito, engenharia de prompt e documentação;
+- **OpenAI Image Generation:** geração da imagem fotorrealista;
+- **Git e GitHub:** versionamento e publicação do projeto.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+1. Escolhi um cenário urbano brasileiro reconhecível, sem reproduzir um local
+   específico.
+2. Troquei elementos exagerados de ficção científica por mudanças plausíveis,
+   como ônibus elétrico, telhados verdes e infraestrutura cicloviária.
+3. Estruturei o prompt com linguagem fotográfica: lente de 35 mm, luz difusa,
+   asfalto molhado, cores naturais, textura de pele e pequenas imperfeições.
+4. Pedi que marcas, textos, logotipos e estética *cyberpunk* fossem evitados.
+5. Revisei o resultado procurando inconsistências visuais e deixei explícito
+   que a cena foi criada por IA.
+
+O [prompt completo](./PROMPT.md) também está disponível no repositório para
+permitir que o experimento seja estudado e reproduzido.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+![Cena fictícia de São Paulo sustentável em 2045, gerada por IA](./assets/sao-paulo-2045.png)
 
-### Exemplos e Insigths
+*Cena fictícia de uma São Paulo sustentável em 2045 — imagem gerada por IA.*
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+A iluminação nublada, os reflexos no asfalto e as pessoas em atividades comuns
+ajudam a criar uma sensação documental. Em contraste, a integração quase ideal
+entre vegetação, mobilidade e arquitetura pode levantar suspeitas de que a cena
+foi construída artificialmente.
 
-## Links Interessantes
+## 💭 Reflexão
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Criar algo “natty” com IA não depende apenas de adicionar mais detalhes. Quanto
+mais perfeita e espetacular a imagem fica, mais artificial ela pode parecer.
+Pequenas imperfeições, iluminação coerente e situações cotidianas foram mais
+importantes para o realismo do que uma estética futurista.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O experimento também reforçou uma responsabilidade essencial: uma imagem
+convincente deve ser identificada como conteúdo gerado por IA para não ser
+confundida com um registro verdadeiro.
+
+---
+
+Projeto desenvolvido para o desafio **Lab Natty or Not**, da DIO.
